@@ -2,8 +2,6 @@
 
 This is an initial configuration boilerplate for tailwindCss projects
 
-- utilizes vuex for state management
-
 ## Project setup
 
 ```
